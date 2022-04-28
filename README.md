@@ -3,7 +3,7 @@
 The aim of this notebook is to give an overview of https://grouplens.org/datasets/movielens/100k/.
 
 
-The notebook is divided in the following parts:
+This notebook is divided in the following parts:
 - used libraries;
 - import and dataset preparation;
 - descriptive statistics;
