@@ -1,3 +1,16 @@
 ### Movie Lens Analysis
 
-The aim of this project is to give an overview of https://grouplens.org/datasets/movielens/100k/.
+The aim of this notebook is to give an overview of https://grouplens.org/datasets/movielens/100k/.
+
+
+The notebook is divided in the following parts:
+- used libraries;
+- import and dataset preparation;
+- descriptive statistics;
+- rating matrix filling;
+  - KNN (cosine similarity);
+  - KNN (pearson correlation);
+  - SVD;
+- performance comparison;
+- rating matrix representation;
+- K-Meand clustering.
