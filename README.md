@@ -13,4 +13,4 @@ This notebook is divided in the following parts:
   - SVD;
 - performance comparison;
 - rating matrix representation;
-- K-Meand clustering.
+- k-means clustering.
